@@ -1,0 +1,14 @@
+{
+  "name": "ecma6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1_let_const.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
